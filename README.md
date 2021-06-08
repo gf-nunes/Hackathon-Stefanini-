@@ -29,7 +29,7 @@ Tecnologias Utilizadas:
 - JSF
 - [PrimeFaces](https://www.primefaces.org/)
 - Glassfish
-- Banco de Dados Postgres
+- Banco de Dados PostgreSQL
 
 
 
