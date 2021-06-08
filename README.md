@@ -26,6 +26,10 @@ Tecnologias Utilizadas:
 - [Java](https://www.java.com/pt-BR/)
 - [NetBeans](https://netbeans.apache.org/)
 - HTML
+- JSF
+- [PrimeFaces](https://www.primefaces.org/)
+- Glassfish
+- Banco de Dados Postgres
 
 
 
